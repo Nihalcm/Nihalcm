@@ -7,7 +7,7 @@ Welcome to my GitHub! I specialize in building cross-platform mobile application
 ---
 
 ## 🚀 About Me
-- 🌏 Based in **Dubai, United Arab Emirates** AE  
+- 🌏 Based in **Dubai, United Arab Emirates** 
 - 🎨 Focused on delivering **high-performance Flutter apps** with creative UI/UX.  
 - 🌱 Continuously exploring new tools, packages, and design patterns in Flutter.  
 
