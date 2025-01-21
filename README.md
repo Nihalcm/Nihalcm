@@ -22,6 +22,11 @@ Welcome to my GitHub! I specialize in building cross-platform mobile application
   
 ---
 
+## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalcm&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 📬 Connect With Me
 - **LinkedIn:** [Muhammed Nihal CM](https://www.linkedin.com/in/muhammednihalcm?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **Email:** [nihalcmm@gmail.com](mailto:nihalcmm@gmail.com)  
