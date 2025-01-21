@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi, I'm Muhammed Nihal CM!
 
-<!--
-**Nihalcm/Nihalcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Flutter Developer | UI/UX Enthusiast | Tech Explorer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I specialize in building cross-platform mobile applications using **Flutter**. My passion lies in crafting seamless user experiences and writing clean, scalable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌏 Based in **Kerala, India** 🇮🇳  
+- 🎨 Focused on delivering **high-performance Flutter apps** with creative UI/UX.  
+- 🌱 Continuously exploring new tools, packages, and design patterns in Flutter.  
+
+---
+
+## 💡 Skills and Tools
+- **Frameworks & Libraries:** Flutter, Firebase, Dio, Provider, BLoC  
+- **App Development:** Play Store, App Store, Huawei AppGallery builds  
+- **Core Expertise:** API Integration, Payment Integration  
+- **Other Tools:** Git, VS Code, Android Studio, Postman  
+- **UI/UX:** Material Design, Custom Widgets
+  
+---
+
+## 📬 Connect With Me
+- **LinkedIn:** [Muhammed Nihal CM](https://www.linkedin.com/in/muhammednihalcm?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Email:** [nihalcmm@gmail.com](mailto:nihalcmm@gmail.com)  
+
+---
+
+### ✨ Fun Fact  
+_"I believe in the power of Flutter to transform ideas into impactful apps."_  
+
+Let me know if this works or needs further tweaks! 😊
