@@ -36,3 +36,8 @@ Welcome to my GitHub! I specialize in building cross-platform mobile application
 ### ✨ Fun Fact  
 _"I believe in the power of Flutter to transform ideas into impactful apps."_  
 
+---
+
+### ✨ Fun Corner
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo)
+![Meme](https://readme-jokes.vercel.app/api?theme=tokyo-night)
